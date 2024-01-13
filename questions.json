@@ -499,6 +499,12 @@
                 { "id": 3, "text": "reduce()", "isCorrect": false },
                 { "id": 4, "text": "forEach()", "isCorrect": false }
             ]
+        },
+        {
+            "id": 15,
+            "text": "Какие типы данных в JS ты знаешь?",
+            "hasOptions": false,
+            "answer": "Всего в JS 8 типов данных:\n\nЧисло (number)\n\nСтрока (string)\n\nБулевый (логический) тип (boolean)\n\nBigInt\n\nSymbol\n\nnull\n\nundefiend\n\nObject"
         }
     ],
     "react": [
